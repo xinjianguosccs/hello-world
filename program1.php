@@ -1,5 +1,6 @@
 <?php
 
-echo "Hello Worl!";
+echo "Hello, World!";
+echo "Hello SCCS developers!";
 
 ?>
