@@ -10,7 +10,7 @@ Edit the README.md file and add an entry under Team Members, Add Xinjian
 
 Tell Git that you want to include the file in the next commit: git add README.md
 
-Commit the file to your local repository. Supply the number of the issue that you created above: git commit -m "Adding Xinjian, Closes #1"
+Commit the file to your local repository. Supply the number of the issue that you created above: git commit -m "Adding Xinjian, Closes #4"
 
 Push the change to the remote repository: git push origin xinjian
 
