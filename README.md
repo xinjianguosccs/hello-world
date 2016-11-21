@@ -1,6 +1,6 @@
 Instructions on how to use GitHub
 
-Create an issue in the Github repository. The issue should be 'Add {your name', e.g., 'Add Xinjian'. Note the issue number.
+Create an issue in the Github repository. The issue should be 'Add {your name}', e.g., 'Add Xinjian'. Note the issue number.
 
 Clone the repository: git clone https://github.com/xinjianguosccs/hello-world.git
 
